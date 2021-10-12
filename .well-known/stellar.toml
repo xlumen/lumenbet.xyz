@@ -4,7 +4,7 @@ NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 [DOCUMENTATION]
 ORG_NAME= "xLumen.cc"
 ORG_URL= "https://xlumen.cc"
-ORG_LOGO= "https://xlumen.cc/.well-known/xlumen.png"
+ORG_LOGO= "https://xlumen.cc/.well-known/xlumencc.png"
 ORG_PHYSICAL_ADDRESS= "Earth"
 ORG_DESCRIPTION= "We are here to serve Stellar Lumens Holder"
 ORG_KEYBASE= "soon"
