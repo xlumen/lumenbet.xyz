@@ -1,0 +1,23 @@
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME= "xLumen.cc"
+ORG_URL= "https://xlumen.cc"
+ORG_LOGO= "https://xlumen.cc/.well-known/xlumen.png"
+ORG_PHYSICAL_ADDRESS= "Earth"
+ORG_DESCRIPTION= "We are here to serve Stellar Lumens Holder"
+ORG_KEYBASE= "soon"
+ORG_GITHUB= "soon"
+ORG_OFFICIAL_EMAIL= "xlumen.cc@protonmail.com"
+
+[[CURRENCIES]]
+code= "LBET"
+name= "LumenBet"
+issuer= "GBVQV2ZGW4XUBIBHHKUID54D7CKQR6KS4WL2U3DA3X36DAA4FEKFLBET"
+is_asset_anchored = false
+display_decimals= 7
+desc= "Funding and Payment Token for LumenBet.xyz. Only 10.000.000 Tokens. First batch sell is 15% of total tokens."
+conditions= "Use LBET Token to bet on LumenBet.xyz."
+fixed_number=10000000
+image= "https://lumenbet.xyz/.well-known/lumenbet.png"
